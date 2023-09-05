@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Semana02</string>
+
+    <string-array name="Pasatiempos">
+        <item>Seleccione pasatiempos</item>
+        <item>Codear</item>
+        <item>Jugar</item>
+        <item>Idiomas</item>
+    </string-array>
+</resources>
