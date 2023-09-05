@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Semana02</string>
+    <string name="app_name">Semana 02</string>
 
     <string-array name="Pasatiempos">
         <item>Seleccione pasatiempos</item>
